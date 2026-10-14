@@ -1,0 +1,10 @@
+{
+  "minimum_workers": 30,
+  "minimum_pois": 10,
+  "idw_neighbors": 12,
+  "idw_power": 2,
+  "walking_seconds": 900,
+  "seed": 20261012,
+  "replicates": 10,
+  "missing_regression": "drop"
+}
