@@ -1,6 +1,6 @@
 # Workplace socioeconomic segregation
 
-Code for calculating workplace and worker-experienced socioeconomic segregation, interpolating residential housing prices, fitting city fixed-effects regression models, and simulating a 15-minute walking scenario. Version 1.0.4.
+Code for calculating workplace and worker-experienced socioeconomic segregation, interpolating residential housing prices, fitting city fixed-effects regression models, and simulating a 15-minute walking scenario. 
 
 The repository includes a fully synthetic demonstration dataset. Confidential mobility records and empirical study results are not distributed. The demo verifies software execution rather than reproduction of the manuscript results.
 
